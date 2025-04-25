@@ -1,0 +1,15 @@
+{
+    "age": 28,
+    "weight": 72,
+    "skin_color": "medium",
+    "height": 175,
+    "pants": ["black jeans", "navy chinos", "white linen trousers"],
+    "shirts": ["white oxford shirt", "blue denim shirt", "black t-shirt"],
+    "jackets": ["gray blazer", "black leather jacket"],
+    "shoes": ["white sneakers", "brown loafers", "black dress shoes"],
+    "ethnic_wears": ["kurta-pajama set (cream)", "navy sherwani"],
+    "accessories": ["black sunglasses", "brown leather belt", "silver watch"],
+    "prompt": "I'm going on a date",
+    "bodyType":"Skinny"
+  }
+  
