@@ -1,15 +1,56 @@
 {
-    "age": 28,
-    "weight": 72,
-    "skin_color": "medium",
-    "height": 175,
-    "pants": ["black jeans", "navy chinos", "white linen trousers"],
-    "shirts": ["white oxford shirt", "blue denim shirt", "black t-shirt"],
-    "jackets": ["gray blazer", "black leather jacket"],
-    "shoes": ["white sneakers", "brown loafers", "black dress shoes"],
-    "ethnic_wears": ["kurta-pajama set (cream)", "navy sherwani"],
-    "accessories": ["black sunglasses", "brown leather belt", "silver watch"],
-    "prompt": "I'm going on a date",
-    "bodyType":"Skinny"
-  }
-  
+  "age": 28,
+  "weight": 72,
+  "height": 178,
+  "skin_color": "medium brown",
+  "event": "attending a semi-formal evening party",
+  "shirts": [
+    "white linen shirt",
+    "black turtleneck",
+    "navy blue dress shirt",
+    "light grey casual tee",
+    "olive green polo",
+    "cream kurta",
+    "checkered flannel shirt",
+    "sky blue formal shirt"
+  ],
+  "pants": [
+    "black jeans",
+    "khaki chinos",
+    "navy blue formal trousers",
+    "white linen pants",
+    "denim jeans",
+    "grey joggers",
+    "brown dress pants"
+  ],
+  "jackets": [
+    "black leather jacket",
+    "navy blazer",
+    "brown bomber jacket",
+    "denim jacket",
+    "grey hoodie"
+  ],
+  "shoes": [
+    "white sneakers",
+    "brown leather boots",
+    "black formal shoes",
+    "tan loafers",
+    "sports running shoes",
+    "brown traditional mojari"
+  ],
+  "ethnic_wear": [
+    "blue silk kurta",
+    "cream sherwani",
+    "black pathani suit",
+    "green nehru jacket"
+  ],
+  "accessories": [
+    "silver watch",
+    "black sunglasses",
+    "brown leather belt",
+    "gold bracelet",
+    "chain pendant",
+    "tie pin",
+    "pocket square"
+  ]
+}
