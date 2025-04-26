@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify
 from groq import Groq
 
 # Set up your Groq client
-client = Groq(api_key="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")
+client = Groq(api_key=os.getenv("API_KEY"))
 
 # Define the Flask app
 app = Flask(__name__)
