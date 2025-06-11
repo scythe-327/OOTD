@@ -1,5 +1,6 @@
 # OOTD
 
-![image](https://github.com/user-attachments/assets/c4e2aaa7-a290-4d9f-9aca-462dd4cc34fd)
+
+![image](https://github.com/user-attachments/assets/3691fcbf-235a-40b6-a131-7074103dda29)
 
 helloooo
